@@ -1,4 +1,4 @@
-# web-server
+# Weather App with web-server 
 
 Node.js is commonly used as web server to serve up the websites, JSON and more.
 
